@@ -43,6 +43,7 @@ fixed effects for months!
 Title of presentation:  voting 
 3:48
 
+
 What were aspects of the presentation that you liked:
 interesting question!
 new features?
@@ -86,12 +87,50 @@ why include mean of predicted?
 
 
 
-Title of presentation:
+Title of presentation:  League of legend
 
-What were aspects of the presentation that you liked:
+What were aspects of the presentation that you liked:  fun data source!
 
 What were aspects of the presentations for which you had concerns or questions:
 
+why was some data missing?  What subset of the data are you talking about?  How does this confine your conclusions.
+
+I don't understand what you are doing.  It is an entire blackbox.  You are presenting numbers and not describing what they mean.  Please make sure that your final report is clear about what numbers mean.  
+
+You describe "most of the papers"... please cite these papers in the literature.
+
+Why 10*29 variables? 
+
+what are your conclusions?
+
+
+
+
+Title of presentation:  H1B
+
+What were aspects of the presentation that you liked:  
+
+cool data.  cool question.  nice combination.  
+
+
+
+What were aspects of the presentations for which you had concerns or questions:
+
+is boosting cross validated???
+
+Random forest also reduces bias....   
+
+radar plot sensitive to variable ordering. 
+
+dem is not highcertified... just high.  
+why is boosting 2x? 
+
+
+what is outcome?  what are features?  count? proportion? 
+
+cluster results are hard to interpret....
+could output of k-means results be used to reformulate a regression problem?
+   this is often easier to interpret.
 
 
 
@@ -100,3 +139,88 @@ What were aspects of the presentations for which you had concerns or questions:
 
 
 
+
+
+Title of presentation:  Traffic 
+
+What were aspects of the presentation that you liked:
+
+Cool combination of several data sets. 
+
+What were aspects of the presentations for which you had concerns or questions:
+
+What is a natural model of variation from one year to the next?
+
+infrastructure spending has a big lag...
+
+Does thesis statement only study marginal correlation? 
+
+"significant" in conclusions... be careful.
+
+add jitter (year vs residual)
+
+easier to intrepte R^2 compared to resid&null deviance. 
+
+
+
+
+
+
+Title of presentation:   Songs
+
+What were aspects of the presentation that you liked:
+
+super fun topic!
+
+
+What were aspects of the presentations for which you had concerns or questions:
+
+thesis needs to be stronger.  not "may be" but "are"
+why the bubble in word counts?
+define entropy.  
+whose definition of sentiment? 
+smooth the lines that are too bumpy
+give citations to outside sources!  this is what makes it impressive!
+are you taking another definition of rhyming?
+  - if not, need to validated this definition!!!
+need to focus attention of slides... don't need to talk about everything.
+overplotting
+entropy vs rhyme... add smoothing line.
+
+
+
+
+
+
+
+
+
+Title of presentation:  NBA
+
+What were aspects of the presentation that you liked:   
+
+really cool data!
+
+What were aspects of the presentations for which you had concerns or questions:
+careful that the project holds together as one whole. 
+Is motion changnign statistically significant??
+  -  I would look at r in radians and make a histogram. "shot zone range"
+who are hall of famers? what years??
+what is the expected value of a shot?
+instead of counts of shots... might be more interesting to look at # points scored by xxxx-shot.
+
+
+
+
+
+
+Title of presentation:  Global terrorism
+
+What were aspects of the presentation that you liked:  
+really nice slide with columns of variabels id/ incident /location /...
+clearly channeling hans rosling!!
+
+What were aspects of the presentations for which you had concerns or questions:
+
+count is confounded by our "intensity of looking/definition"
+thesis is entirely discounted by the limitation... there is nothing left.
